@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d0e0f54-1d79-4a08-bce8-9efb498273b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/RemoveDuplicatesfromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SetMatrixZero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +41,22 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RemoveDuplicatesfromSortedArray">
+  <component name="RunManager" selected="Application.SetMatrixZero">
     <configuration name="RemoveDuplicatesfromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.RemoveDuplicatesfromSortedArray" />
+      <module name="CrackYourPlacement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetMatrixZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.SetMatrixZero" />
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
@@ -70,6 +83,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SetMatrixZero" />
         <item itemvalue="Application.RemoveDuplicatesfromSortedArray" />
         <item itemvalue="Application.SortColors" />
       </list>
@@ -108,6 +122,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays/SetMatrixZero.java</url>
+          <line>15</line>
+          <properties class="Arrays.SetMatrixZero" method="setZeroes">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
