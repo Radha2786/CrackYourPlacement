@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d0e0f54-1d79-4a08-bce8-9efb498273b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BitMasking/Shift_Op.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitMasking/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/BuyAndSellStock2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,15 +36,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.TwoSum">
-    <configuration name="ChocolateDistributionProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.ChocolateDistributionProblem" />
+}]]></component>
+  <component name="RunManager" selected="Application.BuyAndSellStock2">
+    <configuration name="BuyAndSellStock2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.BuyAndSellStock2" />
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
@@ -56,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.MoveZeroes" />
+    <configuration name="ChocolateDistributionProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.ChocolateDistributionProblem" />
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
@@ -74,7 +75,7 @@
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BitMasking.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,7 +88,7 @@
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BitMasking.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,11 +97,11 @@
       </method>
     </configuration>
     <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BitMasking.TwoSum" />
+      <option name="MAIN_CLASS_NAME" value="Arrays.TwoSum" />
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BitMasking.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BuyAndSellStock2" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.Shift_Op" />
         <item itemvalue="Application.Odd_Even_using_bitmasking" />
         <item itemvalue="Application.ChocolateDistributionProblem" />
-        <item itemvalue="Application.MoveZeroes" />
       </list>
     </recent_temporary>
   </component>
@@ -169,15 +170,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/BitMasking/TwoSum.java</url>
-          <line>8</line>
-          <properties class="BitMasking.TwoSum" method="twoSum">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
