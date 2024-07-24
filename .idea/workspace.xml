@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d0e0f54-1d79-4a08-bce8-9efb498273b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/BuyAndSellStock2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Continuous_Subarray_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SubarraySumsDivisiblebyK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/QueueClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Stack_Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,14 +40,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.BuyAndSellStock2">
+}</component>
+  <component name="RunManager" selected="Application.QueueClient">
     <configuration name="BuyAndSellStock2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.BuyAndSellStock2" />
       <module name="CrackYourPlacement" />
@@ -57,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChocolateDistributionProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.ChocolateDistributionProblem" />
+    <configuration name="Continuous_Subarray_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Continuous_Subarray_Sum" />
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
@@ -70,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Odd_Even_using_bitmasking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BitMasking.Odd_Even_using_bitmasking" />
+    <configuration name="QueueClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue.QueueClient" />
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shift_Op" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BitMasking.Shift_Op" />
+    <configuration name="Stack_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.Stack_Client" />
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.TwoSum" />
+    <configuration name="SubarraySumsDivisiblebyK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.SubarraySumsDivisiblebyK" />
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QueueClient" />
+        <item itemvalue="Application.Stack_Client" />
+        <item itemvalue="Application.Continuous_Subarray_Sum" />
+        <item itemvalue="Application.SubarraySumsDivisiblebyK" />
         <item itemvalue="Application.BuyAndSellStock2" />
-        <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.Shift_Op" />
-        <item itemvalue="Application.Odd_Even_using_bitmasking" />
-        <item itemvalue="Application.ChocolateDistributionProblem" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +174,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays/SubarraySumsDivisiblebyK.java</url>
+          <line>8</line>
+          <properties class="Arrays.SubarraySumsDivisiblebyK" method="subarraysDivByK">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays/Continuous_Subarray_Sum.java</url>
+          <line>9</line>
+          <properties class="Arrays.Continuous_Subarray_Sum" method="checkSubarraySum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
