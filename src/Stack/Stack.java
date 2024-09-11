@@ -6,7 +6,6 @@ public class Stack {
 
     int size=0;
     public Stack(int n){
-
         arr = new int[n];
     }
 

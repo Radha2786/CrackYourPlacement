@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d0e0f54-1d79-4a08-bce8-9efb498273b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Stack/Questions/BackspaceStringCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/Questions/DailyTemperatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heap/Min_Pair_sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/AutoBoxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Questions/NGE.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/Stack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +48,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DailyTemperatures">
-    <configuration name="BackspaceStringCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.Questions.BackspaceStringCompare" />
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="AutoBoxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops.AutoBoxing" />
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack.Questions.*" />
+          <option name="PATTERN" value="Oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DailyTemperatures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.Questions.DailyTemperatures" />
+    <configuration name="Child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops.Inheritance.Child" />
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack.Questions.*" />
+          <option name="PATTERN" value="Oops.Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Queue.QueueClient" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops.Inheritance.Client" />
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Queue.*" />
+          <option name="PATTERN" value="Oops.Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stack_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.Stack_Client" />
+    <configuration name="Person_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops.Person_Client" />
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack.*" />
+          <option name="PATTERN" value="Oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,20 +101,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="new1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="new1" />
+    <configuration name="Static_Block_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops.Static_Block_Client" />
       <module name="CrackYourPlacement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DailyTemperatures" />
-        <item itemvalue="Application.new1" />
-        <item itemvalue="Application.BackspaceStringCompare" />
-        <item itemvalue="Application.QueueClient" />
-        <item itemvalue="Application.Stack_Client" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Child" />
+        <item itemvalue="Application.Static_Block_Client" />
+        <item itemvalue="Application.Person_Client" />
+        <item itemvalue="Application.AutoBoxing" />
       </list>
     </recent_temporary>
   </component>
@@ -184,13 +195,13 @@
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Stack/Questions/DailyTemperatures.java</url>
-          <line>8</line>
-          <properties class="Stack.Questions.DailyTemperatures" method="dailyTemperatures">
+          <url>file://$PROJECT_DIR$/src/Stack/Questions/NGE.java</url>
+          <line>10</line>
+          <properties class="Stack.Questions.NGE">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="8" />
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
