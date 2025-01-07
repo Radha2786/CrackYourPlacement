@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d0e0f54-1d79-4a08-bce8-9efb498273b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Heap/Min_Pair_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/AutoBoxing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/Questions/NGE.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/MergeSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,13 +43,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Client">
-    <configuration name="AutoBoxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops.AutoBoxing" />
+  <component name="RunManager" selected="Application.PrefixSum">
+    <configuration name="MedianOfTwoSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.MedianOfTwoSortedArrays" />
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops.Inheritance.Child" />
+    <configuration name="Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Basics01.Power" />
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops.Inheritance.*" />
+          <option name="PATTERN" value="Recursion.Basics.Basics01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops.Inheritance.Client" />
+    <configuration name="PrefixSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Algorithm.PrefixSum" />
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops.Inheritance.*" />
+          <option name="PATTERN" value="Arrays.Algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops.Person_Client" />
+    <configuration name="Recursion.Basics.Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Basics.Power" />
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops.*" />
+          <option name="PATTERN" value="Recursion.Basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Static_Block_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops.Static_Block_Client" />
+    <configuration name="SecondLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Easy.SecondLargest" />
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops.*" />
+          <option name="PATTERN" value="Arrays.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Child" />
-        <item itemvalue="Application.Static_Block_Client" />
-        <item itemvalue="Application.Person_Client" />
-        <item itemvalue="Application.AutoBoxing" />
+        <item itemvalue="Application.PrefixSum" />
+        <item itemvalue="Application.Recursion.Basics.Power" />
+        <item itemvalue="Application.MedianOfTwoSortedArrays" />
+        <item itemvalue="Application.Power" />
+        <item itemvalue="Application.SecondLargest" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +197,60 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Oops/MergeSort.java</url>
+          <line>12</line>
+          <properties class="Oops.MergeSort" method="MergeSort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Oops/MergeSort.java</url>
+          <line>24</line>
+          <properties class="Oops.MergeSort" method="MergeTwoSortedArrays">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Oops/Sorting.java</url>
+          <line>45</line>
+          <properties class="Oops.Sorting" method="QuickSort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Oops/Sorting.java</url>
+          <line>53</line>
+          <properties class="Oops.Sorting" method="Partition">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays/Easy/SecondLargest.java</url>
+          <line>7</line>
+          <properties class="Arrays.Easy.SecondLargest" method="getSecondLargest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays/MedianOfTwoSortedArrays.java</url>
+          <line>8</line>
+          <properties class="Arrays.MedianOfTwoSortedArrays" method="findMedianSortedArrays">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
