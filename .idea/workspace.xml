@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d0e0f54-1d79-4a08-bce8-9efb498273b4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SlidingWindow/Max_Consecutive_Ones3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/TwoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,61 +44,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrefixSum">
-    <configuration name="MedianOfTwoSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.MedianOfTwoSortedArrays" />
-      <module name="CrackYourPlacement" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Basics01.Power" />
-      <module name="CrackYourPlacement" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion.Basics.Basics01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrefixSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Algorithm.PrefixSum" />
-      <module name="CrackYourPlacement" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.Algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Recursion.Basics.Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Basics.Power" />
-      <module name="CrackYourPlacement" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion.Basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecondLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Easy.SecondLargest" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="EvenGreaterthanOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Easy.EvenGreaterthanOdd" />
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
@@ -109,13 +58,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comparator.Main" />
+      <module name="CrackYourPlacement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Comparator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicatesInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Easy.RemoveDuplicatesInArray" />
+      <module name="CrackYourPlacement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumofSubarrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Medium.SumofSubarrays" />
+      <module name="CrackYourPlacement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.Medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.TwoSum" />
+      <module name="CrackYourPlacement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrefixSum" />
-        <item itemvalue="Application.Recursion.Basics.Power" />
-        <item itemvalue="Application.MedianOfTwoSortedArrays" />
-        <item itemvalue="Application.Power" />
-        <item itemvalue="Application.SecondLargest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SumofSubarrays" />
+        <item itemvalue="Application.EvenGreaterthanOdd" />
+        <item itemvalue="Application.RemoveDuplicatesInArray" />
+        <item itemvalue="Application.TwoSum" />
       </list>
     </recent_temporary>
   </component>
@@ -251,6 +252,78 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays/Easy/CountPrefixandSuffixPairs.java</url>
+          <line>9</line>
+          <properties class="Arrays.Easy.CountPrefixandSuffixPairs" method="countPrefixSuffixPairs">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays/Easy/CountPrefixandSuffixPairs.java</url>
+          <line>22</line>
+          <properties class="Arrays.Easy.CountPrefixandSuffixPairs" method="isPrefixSuffixPair">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Stack/Questions/CheckifaParenthesesStringCanBeValid.java</url>
+          <line>69</line>
+          <properties class="Stack.Questions.CheckifaParenthesesStringCanBeValid" method="digit">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays/MaximumAscendingSubarraySum.java</url>
+          <line>8</line>
+          <properties class="Arrays.MaximumAscendingSubarraySum" method="maxAscendingSum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays/SlidingWindow/Max_Consecutive_Ones3.java</url>
+          <line>9</line>
+          <properties class="Arrays.SlidingWindow.Max_Consecutive_Ones3" method="longestOnes">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays/SlidingWindow/LongestSubstringwithKUniques.java</url>
+          <line>10</line>
+          <properties class="Arrays.SlidingWindow.LongestSubstringwithKUniques" method="longestkSubstr">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays/Easy/RemoveDuplicatesInArray.java</url>
+          <line>9</line>
+          <properties class="Arrays.Easy.RemoveDuplicatesInArray" method="removeDuplicate">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays/Medium/SumofSubarrays.java</url>
+          <line>9</line>
+          <properties class="Arrays.Medium.SumofSubarrays" method="sumOfSubarrays">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
