@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d0e0f54-1d79-4a08-bce8-9efb498273b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Advance/GenerateBinaryStringsWithoutAdjacentZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Advance/LISOptimised.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Advance/MinimumCostPathwithAlternatingDirections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Basics/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Medium/BacktrackingStart/CoinChangePermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Medium/BacktrackingStart/QueenPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/UncrossedLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Basics/Graph1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Basics/GraphClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Basics/Questions/DisjointSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Basics/Questions/Graph_Valid_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Basics/Questions/Is_Bipartite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Basics/Questions/Kruskal_Algorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Medium/BacktrackingStart/PermutationPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +52,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MinimumDiscardstoBalanceInventory">
-    <configuration name="ClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Basics.ClimbingStairs" />
+  <component name="RunManager" selected="Application.Kruskal_Algorithm">
+    <configuration name="GraphClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.Basics.GraphClient" />
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.Basics.*" />
+          <option name="PATTERN" value="Graph.Basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FrogJump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Basics.FrogJump" />
+    <configuration name="Graph_Valid_Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.Basics.Questions.Graph_Valid_Tree" />
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.Basics.*" />
+          <option name="PATTERN" value="Graph.Basics.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FrogjumpwithKdistances" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Basics.FrogjumpwithKdistances" />
+    <configuration name="Is_Bipartite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.Basics.Questions.Is_Bipartite" />
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.Basics.*" />
+          <option name="PATTERN" value="Graph.Basics.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumDiscardstoBalanceInventory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contest.MinimumDiscardstoBalanceInventory" />
+    <configuration name="Kruskal_Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.Basics.Questions.Kruskal_Algorithm" />
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Contest.*" />
+          <option name="PATTERN" value="Graph.Basics.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallestAbsentPositiveGreaterThanAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contest.SmallestAbsentPositiveGreaterThanAverage" />
+    <configuration name="PermutationPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Medium.BacktrackingStart.PermutationPractice" />
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Contest.*" />
+          <option name="PATTERN" value="Recursion.Medium.BacktrackingStart.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MinimumDiscardstoBalanceInventory" />
-        <item itemvalue="Application.SmallestAbsentPositiveGreaterThanAverage" />
-        <item itemvalue="Application.FrogjumpwithKdistances" />
-        <item itemvalue="Application.FrogJump" />
-        <item itemvalue="Application.ClimbingStairs" />
+        <item itemvalue="Application.Kruskal_Algorithm" />
+        <item itemvalue="Application.Is_Bipartite" />
+        <item itemvalue="Application.Graph_Valid_Tree" />
+        <item itemvalue="Application.GraphClient" />
+        <item itemvalue="Application.PermutationPractice" />
       </list>
     </recent_temporary>
   </component>
@@ -449,6 +449,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/Medium/BacktrackingStart/PermutationPractice.java</url>
+          <line>7</line>
+          <properties class="Recursion.Medium.BacktrackingStart.PermutationPractice" method="findPermutation">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
