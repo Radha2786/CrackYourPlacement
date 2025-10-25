@@ -48,7 +48,6 @@ public class Kruskal_Algorithm {
         List<EdgePair> ll = getAllEdges();
         //2.
         Collections.sort(ll, new Comparator<EdgePair>(){
-
             @Override
             public int compare(EdgePair o1, EdgePair o2) {
                 return o1.cost-o2.cost;
@@ -67,7 +66,7 @@ public class Kruskal_Algorithm {
             }else{
                 dsu.Union(e.e1,e.e2);
                 sum+=e.cost;
-//                System.out.println(e);
+                System.out.println(e);
             }
         }
         return sum;

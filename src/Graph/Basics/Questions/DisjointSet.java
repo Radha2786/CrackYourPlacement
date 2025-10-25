@@ -1,9 +1,6 @@
 package Graph.Basics.Questions;
 import java.util.*;
 public class DisjointSet {
-//    public static void main(String[] args){
-//
-//    }
     class Node{
         int rank;
         Node parent;

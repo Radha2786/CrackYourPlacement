@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d0e0f54-1d79-4a08-bce8-9efb498273b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Graph/Basics/Questions/Bellman_Ford_Algorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graph/Basics/Questions/Dijkstra_Algorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graph/Basics/Questions/Prims_Algorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Revision/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Revision/Graph2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graph/Basics/Graph1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/Basics/Graph1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graph/Basics/Questions/DisjointSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/Basics/Questions/DisjointSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graph/Basics/Questions/Is_Bipartite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/Basics/Questions/Is_Bipartite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graph/Basics/Questions/Kruskal_Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/Basics/Questions/Kruskal_Algorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graph/Basics/Questions/Prims_Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/Basics/Questions/Prims_Algorithm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +52,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Bellman_Ford_Algorithm">
+  <component name="RunManager" selected="Application.Prims_Algorithm">
     <configuration name="Bellman_Ford_Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Graph.Basics.Questions.Bellman_Ford_Algorithm" />
       <module name="CrackYourPlacement" />
@@ -62,25 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GraphClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graph.Basics.GraphClient" />
+    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.Revision.Graph" />
       <module name="CrackYourPlacement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Graph.Basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Graph_Valid_Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graph.Basics.Questions.Graph_Valid_Tree" />
-      <module name="CrackYourPlacement" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Graph.Basics.Questions.*" />
+          <option name="PATTERN" value="Graph.Revision.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Prims_Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.Basics.Questions.Prims_Algorithm" />
+      <module name="CrackYourPlacement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Graph.Basics.Questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Prims_Algorithm" />
+        <item itemvalue="Application.Graph" />
         <item itemvalue="Application.Bellman_Ford_Algorithm" />
         <item itemvalue="Application.Kruskal_Algorithm" />
         <item itemvalue="Application.Is_Bipartite" />
-        <item itemvalue="Application.Graph_Valid_Tree" />
-        <item itemvalue="Application.GraphClient" />
       </list>
     </recent_temporary>
   </component>
